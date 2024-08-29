@@ -1,1 +1,1 @@
-print("test")
+__import__("os").system("ls")
